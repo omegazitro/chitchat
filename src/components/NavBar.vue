@@ -4,7 +4,7 @@
       <div class="brand flex space-x-2 text-3xl">
         <mdi:message-processing-outline class="text-orange-300" />
         <h1 class="font-thin">
-          Chit<span class="font-bold text-orange-300">Chat</span>
+          u<span class="font-bold text-orange-300">Chat</span>
         </h1>
       </div>
       <div class="menu">
