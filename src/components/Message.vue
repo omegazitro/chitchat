@@ -1,10 +1,10 @@
 <template>
-  <div class="container mx-auto flex bg-blue-900 my-4 rounded-full">
+  <div class="container mx-auto flex bg-blue-700 my-4 rounded-full">
     <div>
       <mdi:account class="bg-white rounded-full h-12 w-12" />
     </div>
     <div class="flex flex-grow">
-      <div class="flex flex-grow items-center justify-between mx-4 font-thin text-xl text-blue-300"> 
+      <div class="flex flex-grow items-center justify-between mx-4 font-thin text-xl text-blue-200"> 
         <p>Message goes Here</p>
         <p class="text-sm italic">Author goes here</p>
       </div>
